@@ -1,8 +1,7 @@
 # Statistical-Learning-Project
 ## Abstract
 This report analyzes residential property values in Taipei, Taiwan, using the
-Real Estate Valuation
-dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set).
+*Real Estate Valuation dataset* from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set).
 
 The study aims to identify market segments and evaluate the predictive power of structural and locational features on house prices.
 
